@@ -1,7 +1,10 @@
-
+<div align="center">
 
 ## Estudante de Programação e Tecnologia!
+
 ----------------------------------------------
+
+</div>
 
 <div align="center">
   <a href="https://github.com/m4oliveira">
