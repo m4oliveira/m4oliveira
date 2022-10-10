@@ -1,6 +1,6 @@
 
 
-## Programação e tecnologia!
+## Estudante de Programação e Tecnologia!  U+1F469, U+200D, U+1F4BB,
 ----------------------------------------------
 
 <div align="center">
