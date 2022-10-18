@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Estudante de Programação e Tecnologia!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC039D&size=45&center=true&vCenter=true&width=1000&lines=Estudante+de+Programação+e+Tecnologia!+:%29)](https://git.io/typing-svg)
 
 ----------------------------------------------
 
